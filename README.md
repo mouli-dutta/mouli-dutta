@@ -1,4 +1,6 @@
 ![](https://user-images.githubusercontent.com/117016206/229018540-8336a66e-87db-48ef-a37e-39e904d40ae7.png)
+<img align="right" alt="me" width="300dp" src="https://user-images.githubusercontent.com/117016206/229030640-bbbd1100-047f-475e-814a-cf3d2499bc15.png"/>
+
 # 💫About Me :
 ### Hey there, I'm Mouli Dutta 👋
 - 🔭 I'm currently working on my master's degree in computer application.
