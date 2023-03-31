@@ -1,7 +1,7 @@
 # 💫About Me :
 ### Hi there, I'm Mouli Dutta 👋
 - 🔭 I'm currently working on my master's degree in computer application.
-- 😄 I'm a self taught Java & android developer. I love coding, problem solving and learning new technologies.
+- 😄 I'm a self taught Java & android developer who loves coding, problem solving and learning new technologies.
 - 🌱 I’m currently learning R and Python to expand my knowledge in the AI/ML domain.
 - ⚡ Fun fact: I'm a math nerd 🤓
 
