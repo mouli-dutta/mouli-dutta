@@ -1,5 +1,6 @@
+![](https://user-images.githubusercontent.com/117016206/229018540-8336a66e-87db-48ef-a37e-39e904d40ae7.png)
 # 💫About Me :
-### Hi there, I'm Mouli Dutta 👋
+### Hey there, I'm Mouli Dutta 👋
 - 🔭 I'm currently working on my master's degree in computer application.
 - 😄 I'm a self taught Java & android developer who loves coding, problem solving and learning new technologies.
 - 🌱 I’m currently learning R and Python to expand my knowledge in the AI/ML domain.
