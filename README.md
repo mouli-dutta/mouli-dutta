@@ -17,10 +17,12 @@
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%2300599C.svg?style=plastic&logo=r&logoColor=white) 
 ![Android](https://img.shields.io/badge/Android-%230075B5.svg?style=plastic&logo=Android&logoColor=white) 
 ![Material Design](https://img.shields.io/badge/MaterialDesign-%23757575.svg?style=plastic&logo=MaterialDesign&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-%23512BD4.svg?style=plastic&logo=AndroidStudio&logoColor=white) 
