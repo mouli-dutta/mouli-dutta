@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on my master's degree in computer application.
 - 😄 I'm a self taught Java & android developer who loves coding, problem solving and learning new technologies.
 - 🌱 I’m currently learning R and Python to expand my knowledge in the AI/ML domain.
-- ⚡ Fun fact: I'm a math nerd 🤓
+- ⚡ Fun fact: I enjoy calligraphy and sketching 🎨🖌️
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__hilise__) 
