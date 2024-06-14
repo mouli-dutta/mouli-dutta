@@ -10,10 +10,7 @@
 - ⚡ Fun fact: I enjoy calligraphy and sketching 🎨🖌️
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__hilise__) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mouli-dutta) 
-[![Sololearn](https://img.shields.io/badge/Sololearn-%2300205B.svg?logo=Sololearn&logoColor=#149EF2)](https://www.sololearn.com/profile/19444596)
-
+[![Linktree](https://img.shields.io/badge/Linktree-%23E4405F.svg?logo=Linktree&logoColor=white)](https://linktr.ee/mouli_dutta) 
 
 
 # 💻Tech Stack
