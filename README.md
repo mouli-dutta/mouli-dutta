@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/117016206/229018540-8336a66e-87db-48ef-a37e-39e904d40ae7.png)
 
 # 💫About Me :
-<img align="right" alt="me" width="230" src="https://user-images.githubusercontent.com/117016206/229030640-bbbd1100-047f-475e-814a-cf3d2499bc15.png"/>
+<img align="right" alt="me" width="230" src="https://github.com/user-attachments/assets/4d800fb4-80ef-433d-a789-3b46430873cb"/>
 
 ### Hey there, I'm Mouli Dutta 👋
 - 🔭 I'm currently working on my master's degree in computer application.
