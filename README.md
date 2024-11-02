@@ -4,7 +4,7 @@
 <img align="right" alt="me" width="230" src="https://github.com/user-attachments/assets/4d800fb4-80ef-433d-a789-3b46430873cb"/>
 
 ### Hey there, I'm Mouli Dutta 👋
-- 🔭 I'm currently working on my master's degree in computer application.
+- 🔭 I'm currently working as a software engineer at Accenture in India.
 - 😄 I'm a self taught Java & android developer who loves coding, problem solving and learning new technologies.
 - 🌱 I’m currently learning R and Python to expand my knowledge in the AI/ML domain.
 - ⚡ Fun fact: I enjoy calligraphy and sketching 🎨🖌️
