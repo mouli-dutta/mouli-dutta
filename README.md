@@ -1,15 +1,15 @@
 ![](https://user-images.githubusercontent.com/117016206/229018540-8336a66e-87db-48ef-a37e-39e904d40ae7.png)
 
 # 💫About Me :
-<img align="right" alt="me" width="230" src="https://github.com/user-attachments/assets/4d800fb4-80ef-433d-a789-3b46430873cb"/>
+<img align="right" alt="me" width="280" src="https://github.com/user-attachments/assets/d5fe8498-f460-4cac-a369-906eb1ba4c64"/>
 
 <h3>Hi 👋, I'm Mouli Dutta, </h3>
-<h3>An aspiring Data Engineer from India.</h3>
+<h3>An aspiring Data Scientist from India.</h3>
 
-- 🔭 I'm currently focused on transitioning into a data engineering role, building scalable and efficient data pipelines.
-- 😄 Passionate about designing and optimizing ETL workflows, data warehousing, and cloud-based solutions.
-- 🌱 Exploring the intersection of data engineering and data science, working on real-time and batch data processing.
-- ⚡ Actively learning advanced SQL, distributed computing, and big data technologies like Apache Spark and Kafka.
+- 🔭 I'm currently transitioning into a data science role, focusing on turning raw data into meaningful insights.
+- 😄 I love building and fine-tuning machine learning models, finding patterns in data, and helping drive smarter decisions.
+- 🌱 Exploring the overlap between data science and data engineering, working with both real-time and batch data to power analytics.
+- ⚡ Currently deepening my skills in advanced statistics, machine learning, and big data tools like Apache Spark and TensorFlow.
 
 
 # 🌐 Socials
