@@ -1,5 +1,3 @@
-![](https://user-images.githubusercontent.com/117016206/229018540-8336a66e-87db-48ef-a37e-39e904d40ae7.png)
-
 # 💫About Me:
 <img align="right" alt="me" width="280" src="https://github.com/user-attachments/assets/d5fe8498-f460-4cac-a369-906eb1ba4c64"/>
 
@@ -27,23 +25,20 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
-![snowflake](https://img.shields.io/badge/SnowFlake-29B5E8?style=plastic&logo=snowflake&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 ![googlebigquery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=plastic&logo=googlebigquery&logoColor=white) 
 
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) 
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
 
 
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%2300B1EA?style=plastic&logo=Apache%20Hadoop&logoColor=white)
-![Hive](https://img.shields.io/badge/Apache%20Hive-%23FF7A00?style=plastic&logo=Apache%20Hive&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20?style=plastic&logo=Apache%20Kafka&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%23FF7A00?style=plastic&logo=AI&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300B1EA?style=plastic&logo=ML&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23231F20?style=plastic&logo=DL&logoColor=white)
 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
