@@ -2,12 +2,12 @@
 <img align="right" alt="me" width="280" src="https://github.com/user-attachments/assets/d5fe8498-f460-4cac-a369-906eb1ba4c64"/>
 
 <h3>Hi 👋, I'm Mouli Dutta, </h3>
-<h3>An aspiring Data Scientist from India.</h3>
+<h3>An aspiring AI Engineer from India.</h3>
 
-- 🔭 I'm currently transitioning into a data science role, focusing on turning raw data into meaningful insights.
-- 😄 I love building and fine-tuning machine learning models, finding patterns in data, and helping drive smarter decisions.
-- 🌱 Exploring the overlap between data science and data engineering, working with both real-time and batch data to power analytics.
-- ⚡ Currently deepening my skills in advanced statistics, machine learning, and big data tools like Apache Spark and TensorFlow.
+- 🔭 Pursuing a career in AI, focused on mastering machine learning algorithms, frameworks, and real-world problem-solving.  
+- 😄 Passionate about designing intelligent models, uncovering hidden patterns in data, and optimizing decision-making.  
+- 🌱 Exploring the fusion of AI and data engineering, working with scalable systems to process real-time and batch data.  
+- ⚡ Developing expertise in deep learning, advanced analytics, and cutting-edge tools like TensorFlow and Apache Spark.
 
 
 # 🌐 Socials:
