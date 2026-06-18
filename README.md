@@ -1,13 +1,13 @@
 # 💫About Me:
 <img align="right" alt="me" width="280" src="https://github.com/user-attachments/assets/d5fe8498-f460-4cac-a369-906eb1ba4c64"/>
 
-<h3>Hi 👋, I'm Mouli Dutta, </h3>
-<h3>An aspiring AI Engineer from India.</h3>
+<h3>Hi 👋, I'm Mouli Dutta,</h3>
+<h3>A Security Transformation Associate with a passion for AI-driven innovation.</h3>
 
-- 🔭 Pursuing a career in AI, focused on mastering machine learning algorithms, frameworks, and real-world problem-solving.  
-- 😄 Passionate about designing intelligent models, uncovering hidden patterns in data, and optimizing decision-making.  
-- 🌱 Exploring the fusion of AI and data engineering, working with scalable systems to process real-time and batch data.  
-- ⚡ Developing expertise in deep learning, advanced analytics, and cutting-edge tools like TensorFlow and Apache Spark.
+- 🔭 Working in a SOC environment, focusing on security operations, incident response, and process automation across global teams.  
+- 😄 Passionate about enhancing detection capabilities, reducing alert noise, and building efficient, automation-driven security workflows.  
+- 🌱 Exploring the integration of AI/ML with cybersecurity to improve threat detection, anomaly analysis, and decision-making.  
+- ⚡ Developing expertise in security analytics, automation tools, and scalable data processing using technologies like Python, Power Automate, and cloud platforms.
 
 
 # 🌐 Socials:
