@@ -60,7 +60,8 @@ Python-based email automation tool that extracts structured data from Outlook em
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231071D3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouli_dutta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouli-dutta/)
+[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-1E90FF?style=for-the-badge)](https://mouli-dutta.github.io/Mouli-Dutta---Portfolio/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mouli_dutta)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mouli_dutta)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/moulidutta)
